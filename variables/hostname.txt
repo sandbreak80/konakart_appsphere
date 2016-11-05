@@ -1,2 +1,2 @@
 hostname
-localhost
+ec2-52-205-164-180.compute-1.amazonaws.com
